@@ -1,0 +1,12 @@
+.completed {
+    color: green; /* Estilo para actividades completadas */
+  }
+  
+  .pending {
+    color: orange; /* Estilo para actividades pendientes */
+  }
+  
+  .overdue {
+    color: red; /* Estilo para actividades vencidas */
+  }
+  
